@@ -1,0 +1,26 @@
+{
+  "properties": {
+    "environment": "local",
+    "reportName": "Qualitrix Automation Report"
+
+  },
+  "capabilities": {
+    "android": {
+      "appPackage": "com.espresso.espressomobile",
+      "appActivity": "com.espresso.espressomobile.splashScrn.SplashScreenActivity",
+      "platformName": "Android",
+      "newCommandTimeout": 600,
+      "noReset": true,
+      "launchTimeout": 90000
+    }
+   
+  },
+  "devices":[
+    {
+      "name":"SCR8MBGAVKYLJBJ7",
+      "version":"13.0.0",
+      "platform":"Android"
+    }
+    
+  ]
+}

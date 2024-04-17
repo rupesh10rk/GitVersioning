@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BDD_MobileBase" />
+        <module name="Sharekhan_Mobile_Auomation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BDD_MobileBase" target="1.8" />
+      <module name="SharekhanMobileAutomation" target="1.8" />
+      <module name="Vinoth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
